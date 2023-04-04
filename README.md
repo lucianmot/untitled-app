@@ -20,6 +20,9 @@ You've slain a skeleton at 6:47pm.
 You've gained 1 xp and 1 gold.
 
 Completed 30 mins work
-You've slain a skeleton at x:xxpm.  
+You've slain a skeleton at 9:44pm.  
 You've gained 1 xp and 1 gold.
+
+Today, 4th of April, you've slain 3 skeletons. And gained 3 xp and 3 gold coins.
+Congratulations adventurer, see you tomorrow! :)
 ```
