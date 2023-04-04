@@ -1,1 +1,14 @@
 # untitled-app
+
+# This is a to do + timer + game dev app
+# the purpose is to create a action item for a day or half a day(that is a dungeon) and work in chunks of 30 mins(which represent slaying a mob for example a skeleton)
+# once a mob / skeleton is slain you get you get a xp and gold (for example 1 xp and 1 gold)
+# you will gather gold per week or per month which you will be able to convert into real life money(for example 2 gold equals 1 £) which you are free to spend guilt free as a way to pat yours on the back for a job well done
+# if you manage to finish your action item in time you have slain the boss of the dungeon and you get a bonus and a guaranted item drop (for example Tunic of Unit Testing) name based on the action item which is also the dungeon name
+
+# Enter New Dungeon
+# Dungeon "Testing Mastery"
+# Completed 30 mins work
+# You've slain a skeleton at 4:13pm
+# You've gained 1 xp and 1 gold
+# 
