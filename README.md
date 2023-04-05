@@ -25,4 +25,17 @@ You've gained 1 xp and 1 gold.
 
 Today, 4th of April, you've slain 3 skeletons. And gained 3 xp and 3 gold coins.
 Congratulations adventurer, see you tomorrow! :)
+
+A new day, a new adventure! Off to the Dungeon you go!
+Completed 30 mins work
+You've slain a skeleton at 11:13am.  
+You've gained 1 xp and 1 gold.
+
+Completed 30 mins work
+You've slain a skeleton at 11:52am.  
+You've gained 1 xp and 1 gold.
+
+Completed 30 mins work
+You've slain a skeleton at xx:52am.  
+You've gained 1 xp and 1 gold.
 ```
