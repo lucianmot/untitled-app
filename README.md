@@ -36,6 +36,22 @@ You've slain a skeleton at 11:52am.
 You've gained 1 xp and 1 gold.
 
 Completed 30 mins work
-You've slain a skeleton at xx:52am.  
+You've slain a skeleton at 3:23pm.  
+You've gained 1 xp and 1 gold.
+
+Completed 30 mins work
+You've slain a skeleton at 4:09pm.  
+You've gained 1 xp and 1 gold.
+
+Today, 5th of April, you've slain 4 skeletons. And gained 4 xp and 4 gold coins.
+Congratulations adventurer, see you tomorrow! :)
+
+A new day, a new adventure! Off to the Dungeon you go!
+Completed SeniorDev Call
+You've slain a skeleton at 1:57pm.  
+You've gained 1 xp and 1 gold.
+
+Completed 30 mins work
+You've slain a skeleton at xx:09pm.  
 You've gained 1 xp and 1 gold.
 ```
