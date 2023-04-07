@@ -56,6 +56,10 @@ Congratulations adventurer, see you tomorrow! :)
 
 A new day, a new adventure! Off to the Dungeon you go!
 Completed 30 mins work
-You've slain a skeleton at xx:09pm.  
+You've slain a skeleton at 7:39pm.  
+You've gained 1 xp and 1 gold.
+
+Completed 30 mins work
+You've slain a skeleton at x:39pm.  
 You've gained 1 xp and 1 gold.
 ```
