@@ -60,6 +60,6 @@ You've slain a skeleton at 7:39pm.
 You've gained 1 xp and 1 gold.
 
 Completed 30 mins work
-You've slain a skeleton at x:39pm.  
+You've slain a skeleton at 8:11pm.  
 You've gained 1 xp and 1 gold.
 ```
