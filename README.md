@@ -51,6 +51,10 @@ Completed SeniorDev Call
 You've slain a skeleton at 1:57pm.  
 You've gained 1 xp and 1 gold.
 
+Today, 6th of April, you've slain 1 skeletons. And gained 1 xp and 1 gold coins.
+Congratulations adventurer, see you tomorrow! :)
+
+A new day, a new adventure! Off to the Dungeon you go!
 Completed 30 mins work
 You've slain a skeleton at xx:09pm.  
 You've gained 1 xp and 1 gold.
